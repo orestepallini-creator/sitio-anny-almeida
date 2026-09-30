@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://anny-almeida.onrender.com/sitemap.xml
+Sitemap: https://annyalmeida.com/sitemap.xml
